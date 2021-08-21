@@ -1,1 +1,1 @@
-# Python-Project-July-Term
+# Python 101 Temmuz Dönemi Projeleri

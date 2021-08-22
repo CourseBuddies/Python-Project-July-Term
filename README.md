@@ -24,3 +24,5 @@ word = [“kelime1”, “kelime2”, “kelime3”,...] (Araştırabilirsiniz)
 Özetle, programımız random bir kelime seçecek ve bizde terminalden harfler girerek adamımız asılmadan bu kelimeyi bulmaya çalışacağız. Adam asılınca oyun bitecek. Eminim bu projeyi yaparken çok eğleneceksiniz. Aşağıdaki resim size yol gösterebilir.
 
 ![img](figures/hangman.jpg)
+
+Kolay gelsin ⚡🌱📕

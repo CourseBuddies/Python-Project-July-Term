@@ -25,4 +25,7 @@ word = [“kelime1”, “kelime2”, “kelime3”,...] (Araştırabilirsiniz)
 
 ![img](figures/hangman.jpg)
 
+## Proje Yükleme Linki
+https://forms.gle/nc3ecs5TYFo1iigS9
+
 Kolay gelsin ⚡🌱📕

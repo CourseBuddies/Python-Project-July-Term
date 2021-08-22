@@ -17,7 +17,7 @@ cols = 25 and rows = 20 şeklinde olabilir. Tabii ki tamamen size kalmış. Kena
 
 ![img](figures/snake.png)
 
-## 3) Adam Asmaca Oyunu (Hangman)
+## 3) Adam Asmaca Oyunu
 Bu oyunu zamanında hepimiz oynamışızdır. Bu proje için random ve string kütüphanelerini kullanabilirsiniz. Burada kelimelerimizi words.py isimli bir dosyada tutabiliriz. Sonrasında eğitim sürecinde öğrendiğimiz dosya işlemleri ile oluşturduğumuz listeyi ana projede kullanabiliriz. Hatta size bir ipucu! 
 word = [“kelime1”, “kelime2”, “kelime3”,...] (Araştırabilirsiniz)
 
